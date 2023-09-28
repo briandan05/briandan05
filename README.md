@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brian Daniel
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning to do advanced ReactJS projects
-- 💞️ I’m looking to collaborate with Google someday 🙄!
+- 👀 I’m interested in automating tasks to increase productivity.
+- 🌱 I'm currently learning Python for AI/ML.
+- 💞️ I’m looking to connect with Google one day.
 - 📫 You can reach me on my Gmail - georgebrian994@gmail.com
 
 <!---
